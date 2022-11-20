@@ -23,3 +23,5 @@ jobs:
       uses: softprops/action-gh-release@v1
       with:
         files: dist/PyLoggo-0.0.1-py3-none-any.whl
+        name: 0.0.1
+        tag_name: 0.0.1
