@@ -14,7 +14,7 @@ setup(
         "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
         "License :: OSI Approved :: MIT License",
-        "Programming Language :: Python :: 3.11",
+        "Programming Language :: Python :: 3.10",
     ],
     packages=["PyLoggo"],
 )
